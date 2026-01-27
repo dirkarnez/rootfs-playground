@@ -8,3 +8,4 @@
 
 
 - https://ctf-wiki.org/pwn/linux/kernel-mode/environment/qemu-emulate/#_3
+- https://github.com/csmart/custom-initramfs/blob/master/create_initramfs.sh
