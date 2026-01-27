@@ -9,3 +9,8 @@
 
 - https://ctf-wiki.org/pwn/linux/kernel-mode/environment/qemu-emulate/#_3
 - https://github.com/csmart/custom-initramfs/blob/master/create_initramfs.sh
+- https://github.com/ntegan/basic_initramfs
+- https://github.com/h-yamamo/minidebian/blob/bookworm/make_initrd
+- https://github.com/peaclab/linux-initramfs
+- https://github.com/ds-hwang/initramfs-image-maker
+- https://github.com/t00sh/vm-make
