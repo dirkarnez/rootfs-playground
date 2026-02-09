@@ -1,4 +1,5 @@
-# rootfs-playground
+rootfs-playground
+=================
 | Feature        | Initrd (Initial RAM Disk)   | Initramfs (Initial RAM Filesystem) |
 |----------------|-----------------------------|------------------------------------|
 | Type           | Block Device (image)        | CPIO Archive (tmpfs)               |
@@ -14,3 +15,6 @@
 - https://github.com/peaclab/linux-initramfs
 - https://github.com/ds-hwang/initramfs-image-maker
 - https://github.com/t00sh/vm-make
+
+### Minimal
+- [**U-Boot on a virtual ARM machine using QEMU**](https://lnxblog.github.io/2019/02/17/uboot-arm-qemu.html)
