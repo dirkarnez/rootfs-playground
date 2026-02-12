@@ -6,7 +6,7 @@ rootfs-playground
 | Size           | Fixed                       | Dynamic (Flexible)                 |
 | Kernel Support | 2.4 and earlier             | 2.6 and newer                      |
 | Complexity     | Higher (requires FS driver) | Lower (simpler, faster)            |
-
+- [venomlinux/mkinitramfs: script to create initramfs image for linux system and livecd](https://github.com/venomlinux/mkinitramfs)
 - [ramdisk、ramfs、tmpfs、initramfs和rootfs内存文件系统概念_ramdisk和initramfs-CSDN博客](https://blog.csdn.net/lanhuazui10/article/details/144067909)
 - https://ctf-wiki.org/pwn/linux/kernel-mode/environment/qemu-emulate/#_3
 - https://github.com/csmart/custom-initramfs/blob/master/create_initramfs.sh
