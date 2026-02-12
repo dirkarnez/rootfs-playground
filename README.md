@@ -6,6 +6,8 @@ rootfs-playground
 | Size           | Fixed                       | Dynamic (Flexible)                 |
 | Kernel Support | 2.4 and earlier             | 2.6 and newer                      |
 | Complexity     | Higher (requires FS driver) | Lower (simpler, faster)            |
+- [Using the initial RAM disk (initrd) — The Linux Kernel documentation](https://docs.kernel.org/admin-guide/initrd.html)**
+- [Ramfs, rootfs and initramfs — The Linux Kernel documentation](https://docs.kernel.org/filesystems/ramfs-rootfs-initramfs.html)
 - [venomlinux/mkinitramfs: script to create initramfs image for linux system and livecd](https://github.com/venomlinux/mkinitramfs)
 - [ramdisk、ramfs、tmpfs、initramfs和rootfs内存文件系统概念_ramdisk和initramfs-CSDN博客](https://blog.csdn.net/lanhuazui10/article/details/144067909)
 - https://ctf-wiki.org/pwn/linux/kernel-mode/environment/qemu-emulate/#_3
