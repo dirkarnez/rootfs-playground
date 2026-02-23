@@ -23,6 +23,7 @@ rootfs-playground
 - [bootparam(7) - Linux manual page](https://man7.org/linux/man-pages/man7/bootparam.7.html)
 - [bootargs常用属性项_blkdevparts-CSDN博客](https://blog.csdn.net/weixin_42418557/article/details/89220785)
 - [内存文件系统ramdisk_initramfs - yuxi_o - 博客园](https://www.cnblogs.com/embedded-linux/p/4823864.html)
+- [linux内核开发-1：基于busybox打包和制作文件系统并使用qemu启动编译的内核_qemu制作文件系统-CSDN博客](https://blog.csdn.net/sydwy/article/details/144309197)
 
 ### Minimal
 - [**U-Boot on a virtual ARM machine using QEMU**](https://lnxblog.github.io/2019/02/17/uboot-arm-qemu.html)
